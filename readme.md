@@ -1,4 +1,4 @@
-# Teatro
+# Prueba tecnica
 
 **Sistema de usuarios simple con laravel y vuejs.**
 
